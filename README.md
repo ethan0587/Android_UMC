@@ -1,5 +1,5 @@
 # 💚 Android A 💚
-SSUMC 7기 Android 스터디 A조
+SSUMC 8기 Android 스터디 A조
 
 ## 💻 Member
 |  |  |  |  |  | 

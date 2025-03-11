@@ -18,7 +18,7 @@ SSUMC 8기 Android 스터디 A조
 3. 모든 팀원들의 approve를 받으면, pr을 머지합니다. approve와 merge는 스터디 진행 중에 이루어집니다.
 
 ## 🔖 커밋 컨벤션
-1. 커밋에 해당하는 커밋 메시지 쓰기 (예: [nunu/#1] mission {내용} )
+1. 커밋에 해당하는 커밋 메시지 쓰기 (예: [Ean/#1] mission {내용} )
 
 
 | Message  | 설명                                              |

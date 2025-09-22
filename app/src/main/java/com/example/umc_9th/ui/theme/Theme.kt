@@ -1,6 +1,5 @@
-package com.example.umc_8th.ui.theme
+package com.example.umc_9th.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

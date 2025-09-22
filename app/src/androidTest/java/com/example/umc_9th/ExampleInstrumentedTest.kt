@@ -1,4 +1,4 @@
-package com.example.umc_8th
+package com.example.umc_9th
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

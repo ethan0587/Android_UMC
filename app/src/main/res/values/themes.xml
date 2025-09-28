@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 수정 -->
+    <style name="Theme.FLO" parent="Theme.AppCompat.Light.NoActionBar"/>
+
+</resources>
